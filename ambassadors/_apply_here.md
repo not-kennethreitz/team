@@ -2,7 +2,7 @@
 
 ### What does an Ambassador do?
 
-An ambassador is tasked with helping to contribute positively to Kenneth Reitz software projects, ideally on an ongoing basis. 
+An Ambassador is tasked with helping to contribute positively to Kenneth Reitz software projects, ideally on an ongoing basis. 
 
 ------------
 
