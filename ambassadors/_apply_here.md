@@ -12,6 +12,4 @@ Any additonal information (such as your background, interest level, bandwidth) w
 
 Also, please ensure that 2fa (two-factor authentication) is turned on in your GitHub account. 
 
-Thanks for all the fish, 
-
 ✨🍰✨
