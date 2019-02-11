@@ -13,3 +13,11 @@ Any additonal information (such as your background, interest level, bandwidth) w
 Also, please ensure that 2fa (two-factor authentication) is turned on in your GitHub account. 
 
 ✨🍰✨
+
+
+
+------------------
+
+Once you have accepted our invitation, please introduce yourself here:
+
+https://github.com/orgs/kennethreitz/teams/ambassador-trainees
