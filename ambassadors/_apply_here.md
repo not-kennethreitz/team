@@ -1,5 +1,11 @@
 ## Apply to be a KR Ambassador
 
+### What does an Ambassador do?
+
+An ambassador is tasked with helping to contribute positively to Kenneth Reitz software projects, ideally on an ongoing basis. 
+
+------------
+
 If you'd like to be an Ambassador Trainee, please email me@kennethreitz.org.
 
 Please be sure to include the following:
