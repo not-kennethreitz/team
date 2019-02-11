@@ -18,6 +18,12 @@ Also, please ensure that 2fa (two-factor authentication) is turned on in your Gi
 
 ------------------
 
+## Congratulations
+
 Once you have accepted our invitation, please introduce yourself here:
 
 https://github.com/orgs/kennethreitz/teams/ambassador-trainees
+
+And join our Discord server:
+
+https://discord.gg/5wsryxa
