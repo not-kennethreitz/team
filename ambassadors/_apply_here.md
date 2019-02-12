@@ -6,7 +6,7 @@ An Ambassador is tasked with helping to contribute positively to Kenneth Reitz s
 
 ------------
 
-If you'd like to be an Ambassador Trainee, please email me@kennethreitz.org.
+If you'd like to be an Ambassador Trainee, please open an issue on this repo.
 
 Please be sure to include the following:
 
